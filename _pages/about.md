@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-In development...
+Under development...
 
 A data-driven personal website
 ======
-In development...
+Under development...
 
 Getting started
 ======
