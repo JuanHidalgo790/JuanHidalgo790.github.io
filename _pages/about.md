@@ -13,7 +13,7 @@ redirect_from:
 
 🔬 My research interests are in the development of numerical models for solving acoustic problems, mainly looking to the economy in the usage of computational resources.
 
-📚 I am currently working with electromagnetic acoustic transducers (EMATs) in my post-doctoral research, aiming to develop novel designs.
+📚 I am currently working with electromagnetic acoustic transducers (EMATs) in my post-doctoral research, aiming to improve their designs.
 
 [//]: # A data-driven personal website
 [//]: # ======
@@ -23,23 +23,22 @@ redirect_from:
 [//]: # ======
 [//]: # 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 
-Site-wide configuration
-------
+[//]: # Site-wide configuration
+[//]: # ------
 
 
-Create content & metadata
-------
+[//]: # Create content & metadata
+[//]: # ------
 
 
-**Markdown generator**
+[//]: # **Markdown generator**
 
 
-How to edit your site's GitHub repository
-------
+[//]: # How to edit your site's GitHub repository
+[//]: # ------
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[//]: # Example: editing a markdown file for a talk
+[//]: # ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
+
 
