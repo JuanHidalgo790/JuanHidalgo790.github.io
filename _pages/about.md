@@ -13,20 +13,20 @@ redirect_from:
 
 🔬 My research interests are in the development of numerical models for solving acoustic problems, mainly looking to the economy in the usage of computational resources.
 
-📚 I am currently working with electromagnetic acoustic transducers (EMATs) in my post-doctoral research towards to the development of novel designs.
+📚 I am currently working with electromagnetic acoustic transducers (EMATs) in my post-doctoral research, aiming to develop novel designs.
 
-A data-driven personal website
-======
-Under development...
+[//]: # A data-driven personal website
+[//]: # ======
+[//]: # Under development...
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+[//]: # Getting started
+[//]: # ======
+[//]: # 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+[//]: # 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+[//]: # 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+[//]: # 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+[//]: # 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+[//]: # 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
