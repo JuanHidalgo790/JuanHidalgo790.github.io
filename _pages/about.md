@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of modeling engineering machines using computer](/images/image__my_webpage.jpeg){:  .align-right width="300px"}
+![Illustration of modeling engineering machines using computer](/images/image__my_webpage.jpeg){: .align-right width="250px"}
 
-Under development... 
+Under development...
 
 A data-driven personal website
 ======
