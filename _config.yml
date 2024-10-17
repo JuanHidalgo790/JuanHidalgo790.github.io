@@ -21,14 +21,14 @@ repository               : "JuanHidalgo790/JuanHidalgo790.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Photo_Site_Profile2.jpg"
+  avatar           : "Photo_Site_Profile.jpg"
   name             : "Juan Hidalgo"
   pronouns         : # example: "she/her"  
   bio              : "CAE Specialist"
   location         : "Rio de Janeiro, Brazil"
   employer         : "PUC-Rio"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jhidalgo.juan@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
