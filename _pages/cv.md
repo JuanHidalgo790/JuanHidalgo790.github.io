@@ -11,26 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, Pontifícia Universidade Católica do Rio de Janeiro, 2023 
+* M.S. in Mechanical Engineering, Universidade Federal Fluminense, 2016
+* B.S. in Mechanical Engineering, Universidade Federal Fluminense, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-2024: Specialist Engineer
+  * Ouronova
+  * Duties included: Development of simulation models with open-source tools for incorporation into a software
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2022: Research Engineer
+  * Laboratório de Sensores a Fibra Ótica - PUC-Rio
+  * Duties included: Development of acoustic simulation models for a joint project with Repsol Sinopec Brasil 
 
-* Summer 2015: Research Assistant
-  * Github University
+* 2014-2016: Research Assistant
+  * Universidade Federal Fluminense 
+  * Duties included: Development of hydrodynamic simulation models for a joint project with Navy of Brazil
+
+* 2012-2013: Engineering Intern
+  * KFC Projetos e Engenharia
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
