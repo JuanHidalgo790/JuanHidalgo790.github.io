@@ -9,7 +9,11 @@ redirect_from:
 
 ![Illustration of modeling engineering machines using computer](/images/image__my_webpage.jpeg){: .align-right width="250px"}
 
-Under development...
+👨🏻‍💻 I am a doctor in mechanical engineering and an enthusiast of computational modeling for diverse engineering problems. 
+
+🔬 My research interests are in the development of numerical tools for acoustic problems, bringing economy in the usage of computational resources.
+
+📚 I am currently working with electromagnetic acoustic transducers (EMATs) in my post-doctoral research towards to the development of novel designs.
 
 A data-driven personal website
 ======
