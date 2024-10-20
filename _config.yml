@@ -37,7 +37,7 @@ author:
   orcid            : "http://orcid.org/0000-0001-6662-8608"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "Juan-Santisteban-Hidalgo"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
