@@ -11,9 +11,13 @@ redirect_from:
 
 👨🏻‍💻 I am a doctor in mechanical engineering and an enthusiast of computational modeling for diverse engineering problems. 
 
-🔬 My research interests are in the development of numerical models for solving acoustic problems, mainly looking to the economy in the usage of computational resources.
+🔬 My research interests are in the development of numerical models for solving acoustic problems, mainly focusing on the economy's use of computational resources.
 
 📚 I am currently working with electromagnetic acoustic transducers (EMATs) in my post-doctoral research, aiming to improve their designs.
+
+🧪 Some of my previous creations will be featured on this webpage.
+
+🛠 This page is under construction... so soon, more content will be available!
 
 [//]: # A data-driven personal website
 [//]: # ======
@@ -37,15 +41,20 @@ redirect_from:
 [//]: # How to edit your site's GitHub repository
 [//]: # ------
 
-# Some Examples Modeled
+# Some modeling examples
 
-## Mesh of an Oil Well under Acoustic Logging 
-![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: .align-center width="200px"}
+Here, I leave some examples that were constructed during these recent years. Next, each of them will be depicted, and their challenges will be discussed as well.  
 
-## Result 
-![Image of an oil well](/images/Well_Simulation.png){: .align-center width="250px"}
+## Modeling of an oil well under acoustic logging
 
-## Modeling a Piezoelectric Transducer 
+
+
+![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: .align-left width="220px"}
+ 
+![Image of an oil well](/images/Well_Simulation.png){: .align-right width="280px"}
+
+## Modeling the transmission of an acoustic wave from a piezoelectric transducer 
+
 ![Image of a piezoelectric transducer](/images/Piezo_CFS_acoustic.png){: .align-center width="250px"}
 
 
