@@ -19,10 +19,13 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+    - title: "Guide"
+    url: /markdown/
     
   - title: "CV"
     # url: /cv/
     url: /files/Curriculum_Juan_Andres__EN_.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Notes"
+    url: /notes/
