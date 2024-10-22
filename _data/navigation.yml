@@ -27,5 +27,5 @@ main:
     # url: /cv/
     url: /files/Curriculum_Juan_Andres__EN_.pdf
     
-  - title: "Notes"
-    url: /notes/
+  # - title: "Notes"
+  #   url: /notes/
