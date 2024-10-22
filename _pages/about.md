@@ -38,7 +38,7 @@ redirect_from:
 [//]: # ------
 
 [//]: # Example: editing a markdown file for a talk
-[//]: # ![Editing a markdown file for a talk](/images/editing-talk.png)
+![Image of a mesh](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png)
 
 
 
