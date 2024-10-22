@@ -49,7 +49,7 @@ Here, I leave some examples that were constructed during these recent years. Nex
 
 
 
-![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: width="460px"} ![Image of an oil well](/images/Well_Simulation_Movement.gif){: width="520px"}
+![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: .align-center width="460px"} ![Image of an oil well](/images/Well_Simulation_Movement.gif){: .align-center width="520px"}
  
 
 
