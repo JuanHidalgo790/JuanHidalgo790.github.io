@@ -1,6 +1,10 @@
 ---
 title: "Notes"
 permalink: /notes/
+author_profile: true
+redirect_from: 
+  - /notes/
+  - /notes.html
 ---
 
 # Some concepts and equations for test
