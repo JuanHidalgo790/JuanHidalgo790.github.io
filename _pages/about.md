@@ -49,9 +49,9 @@ Here, I leave some examples that were constructed during these recent years. Nex
 
 
 
-![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: .align-left width="220px"}
+![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: width="220px"} ![Image of an oil well](/images/Well_Simulation.png){: width="280px"}
  
-![Image of an oil well](/images/Well_Simulation.png){: .align-right width="280px"}
+
 
 ## Modeling the transmission of an acoustic wave from a piezoelectric transducer 
 
