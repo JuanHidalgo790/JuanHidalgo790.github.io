@@ -49,13 +49,13 @@ Here, I leave some examples that were constructed during these recent years. Nex
 
 
 
-![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: width="350px"} ![Image of an oil well](/images/Well_Simulation_Movement.gif){: width="420px"}
+![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: width="420px"} ![Image of an oil well](/images/Well_Simulation_Movement.gif){: width="480px"}
  
 
 
 ## Modeling the transmission of an acoustic wave from a piezoelectric transducer 
 
-![Image of a piezoelectric transducer](/images/Piezo_CFS_acoustic.png){: .align-center width="650px"}
+![Image of a piezoelectric transducer](/images/Piezo_CFS_acoustic.png){: .align-center width="750px"}
 
 
 
