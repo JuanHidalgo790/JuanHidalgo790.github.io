@@ -20,7 +20,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Guide"
+  - title: "Notes"
     url: /markdown/
     
   - title: "CV"
