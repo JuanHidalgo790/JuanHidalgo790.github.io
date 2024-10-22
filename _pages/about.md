@@ -39,14 +39,14 @@ redirect_from:
 
 # Some Examples Modeled
 
-# Mesh of an Oil Well under Acoustic Logging 
-![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: .align-center width="150px"}
+## Mesh of an Oil Well under Acoustic Logging 
+![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: .align-center width="200px"}
 
 ## Result 
-![Image of an oil well](/images/Well_Simulation.png){: .align-center width="150px"}
+![Image of an oil well](/images/Well_Simulation.png){: .align-center width="250px"}
 
-# Modeling a Piezoelectric Transducer 
-![Image of a piezoelectric transducer](/images/Piezo_CFS_acoustic.png){: .align-center width="150px"}
+## Modeling a Piezoelectric Transducer 
+![Image of a piezoelectric transducer](/images/Piezo_CFS_acoustic.png){: .align-center width="250px"}
 
 
 
