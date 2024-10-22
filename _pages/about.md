@@ -37,8 +37,16 @@ redirect_from:
 [//]: # How to edit your site's GitHub repository
 [//]: # ------
 
-[//]: # Example: editing a markdown file for a talk
-![Image of a mesh](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png)
+# Some Examples Modeled
+
+# Mesh of an Oil Well under Acoustic Logging 
+![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: .align-center width="150px"}
+
+## Result 
+![Image of an oil well](/images/Well_Simulation.png){: .align-center width="150px"}
+
+# Modeling a Piezoelectric Transducer 
+![Image of a piezoelectric transducer](/images/Piezo_CFS_acoustic.png){: .align-center width="150px"}
 
 
 
