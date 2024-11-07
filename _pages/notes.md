@@ -6,6 +6,10 @@ author_profile: true
 
 # Some concepts and equations for test
 
+Under construction...
+
+Equations and examples from dynamic engineering problems are intended to be here soon...
+
 ## Wave equation
 
 $$
