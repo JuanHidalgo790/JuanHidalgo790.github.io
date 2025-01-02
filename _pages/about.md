@@ -53,7 +53,9 @@ So, the model consists of a section of an oil well that undergoes an inspection 
 
 ![Image of an oil well](/images/Well_Simulation_Movement.gif){: .align-center width="520px"} 
 
-In more realistic configurations, there is often the presence of eccentricity between the tubes. Therefore, the use of 3D models is mandatory. However, due to the frequencies of the acoustic signals, the mesh tended to be very heavy, requiring a large amount of computational resources. In this case, parallelization in HPCs could be an interesting alternative. So, during the project, to optimize this usage the same model was constructed using open-source tools. In this case, the mesh was constructed in GMSH, and the compilation was performed with the openCFS tool, which is basically based on C++. Then, to obtain the obtain the information of interest, the ParaView software was used, giving as well the image on this page. 
+In more realistic configurations, there is often the presence of eccentricity between the tubes. Therefore, the use of 3D models is mandatory. However, due to the frequencies of the acoustic signals, the mesh tended to be very heavy, requiring a large amount of computational resources. In this case, parallelization in HPCs could be an interesting alternative. 
+
+During the project, to optimize the usage, avoiding costs with clusters, the same model was constructed using light open-source tools. Therefore, the mesh was constructed using GMSH, and the compilation was performed with the openCFS tool, which is based on C++. So, lightweight models could be obtained and run on not very sophisticated computers. Finally, to obtain the information of interest, the ParaView software was used, which also provided the gif image on this page. 
 
 ![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: .align-center width="460px"} 
 
