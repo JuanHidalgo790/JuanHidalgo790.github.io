@@ -183,7 +183,7 @@ $$
 }
 $$
 
-where \\(\mathbf{u}_{\mathrm{L}}\\) is the irrotational part of displacement, and represents the longitudinal displacement of the continuum, and \\(\mathbf{u}_{\mathrm{T}}\\) is a divergence-free vector field that preserves the volume, representing the transversal component of the displacement (shearing motion). 
+where \\( \mathbf{u}__{\mathrm{L}} \\) is the irrotational part of displacement, and represents the longitudinal displacement of the continuum, and \\( \mathbf{u}_{\mathrm{T}} \\) is a divergence-free vector field that preserves the volume, representing the transversal component of the displacement (shearing motion). 
 
 Manipulation of the Navier-Cauchy equations leads to the following wave equations
 
