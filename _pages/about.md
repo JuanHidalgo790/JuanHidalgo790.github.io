@@ -47,10 +47,11 @@ Here, I leave some examples that were constructed during these recent years. Nex
 
 ## Modeling of an oil well under acoustic logging
 
-This model was derived from a challenging project, which consisted in developing robust simulation models of the acoustic logging of oil wells, intended to be abandoned, for feeding a databasis for a machine learning algorithm
+This model was constructed during a challenging project, which consisted in giving a robust database for exploring machine learning techniques for the identification of cement defects in oil wells, for abandonment purposes. 
+
+So, a signal is generated inside by an acoustic tool and guided waves appear inside, giving information about the well integrity.
 
 ![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: .align-center width="460px"} ![Image of an oil well](/images/Well_Simulation_Movement.gif){: .align-center width="520px"}
- 
 
 
 ## Modeling the transmission of an acoustic wave from a piezoelectric transducer 
