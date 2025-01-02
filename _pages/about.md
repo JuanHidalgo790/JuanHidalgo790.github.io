@@ -11,7 +11,7 @@ redirect_from:
 
 👨🏻‍💻 I am a doctor in mechanical engineering and an enthusiast of computational modeling for diverse engineering problems. 
 
-🔬 My research interests are in the development of numerical models for solving acoustic problems, mainly focusing on the economy's use of computational resources.
+🔬 My research interests are in the development of numerical models for solving acoustic problems, with approaches focused on optimizing computational resources.
 
 📚 I am currently working with electromagnetic acoustic transducers (EMATs) in my post-doctoral research, aiming to improve their designs.
 
