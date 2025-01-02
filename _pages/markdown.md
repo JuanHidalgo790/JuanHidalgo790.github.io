@@ -69,19 +69,21 @@ Assuming a general relation between pressure and density, one can write
 
 $$
 \displaylines{
-p_{0}+\bar{p}\approx p(\rho_{0})+\frac{dp}{d\rho}\bigg|_{\rho_{0}} \bar{\rho}
+p_{0}+\bar{p}\approx p(\rho_{0})+\frac{dp}{d\rho}\bigg|_{\rho_{0}} \bar{\rho},
 }
 $$
 
-then
+resulting in 
 
 $$
 \displaylines{
-\bar{p}=\frac{dp}{d\rho}\bigg|_{\rho=\rho_{0}}\bar{\rho}=c_{f}^{2}\bar{\rho}
+\bar{p}=\frac{dp}{d\rho}\bigg|_{\rho=\rho_{0}}\bar{\rho}=c_{f}^{2}\bar{\rho},
 }
 $$
 
-With the appropriate substitutions, one obtains the linearized equation
+where \\(c_{f}\\) is the acoustic wave speed in the fluid. 
+
+Performing appropriate substitutions, and differentiating the resultant equation with respect to time, yields the linearized equation
 
 $$
 \displaylines{
