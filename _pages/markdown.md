@@ -14,6 +14,8 @@ Here, equations and modeling examples are intended to be here soon...
 
 ## Piezoelectric Effect
 
+![Image of the piezoelectric effect](/images/PiezoEffectJuan.png){: .align-center width="800px"}
+
 
 The governing equations for piezoelectric materials are given by (stress-charge form):
 
