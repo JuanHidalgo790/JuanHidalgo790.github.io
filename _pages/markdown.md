@@ -7,9 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-Here, equations and modeling examples are intended to be here soon...
+Here, the idea is to show equations and modeling examples 
 
-## Acoustic Waves 
+## Acoustic Waves in Fluids
 
 An inviscid fluid under a pressure field \\(p(\mathbf{x},t)\\) has its motion governed by the Euler equation 
 
@@ -62,6 +62,22 @@ $$
 \displaylines{
 &\rho_{0}\frac{d\mathbf{v}}{dt}=-\nabla\bar{p},\\
 &\frac{d\bar{\rho}}{dt}=-\rho_{0}\nabla \cdot \mathbf{v}.
+}
+$$
+
+Assuming a general relation between pressure and density, one can write
+
+$$
+\displaylines{
+p_{0}+\bar{p}=p(\rho_{0}+\bar{\rho}) \rightarrow p_{0}+\bar{p}\approx p(\rho_{0})+\frac{dp}{d\rho}\bigg|_{\rho_{0}} \bar{\rho}
+}
+$$
+
+then
+
+$$
+\displaylines{
+\bar{p}=\frac{dp}{d\rho}\bigg|_{\rho=\rho_{0}}\bar{\rho}=c_{f}^{2}\bar{\rho}
 }
 $$
 
