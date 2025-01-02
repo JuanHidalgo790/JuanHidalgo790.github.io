@@ -15,7 +15,7 @@ An inviscid fluid under a pressure field \\(p(\mathbf{x},t)\\) has its motion go
 
 $$
 \displaylines{
-\rho \frac{Dv}{Dt}=-\nabla p,
+\rho \frac{D\mathbf{v}}{Dt}=-\nabla p,
 }
 $$
 
@@ -105,12 +105,29 @@ For an elastic media, one can apply Newton's second law, for each infinitesimal 
 
 $$
 \displaylines{
-\nabla \cdot \sigma=\rho\frac{\partial^{2}u}{\partial t^{2}},
+\nabla \cdot \boldsymbol{\sigma}=\rho\frac{\partial^{2}\mathbf{u}}{\partial t^{2}},
 }
 $$
 
 where \\(\boldsymbol{\sigma}\\) is the stress tensor, \\(\mathbf{u}(\mathbf{x},t)\\) is the displacement vector, \\(\rho\\) is the density, and the body forces, in this case, are neglected. 
 
+For linear elastic materials the constitutive equations are given by
+
+$$
+\displaylines{
+\boldsymbol{\sigma}=\mathbf{c}\boldsymbol{:}\boldsymbol{varepsilon},
+}
+$$
+
+where \\(\mathbf{c}\\) is the constitutive fourth order elasticity tensor of the material and \\(\boldsymbol{\varepsilon}\\) is the strain tensor. In fact, the strain tensor is related to the displacement, in linearized form, by
+
+$$
+\displaylines{
+\left[\boldsymbol{\varepsilon}\right]=\frac{1}{2}\left([\nabla \mathbf{u}]+\underline{[\nabla \mathbf{u}]}\right),
+}
+$$
+
+in which the underline \\(\underline{\square}\\) means a transpose operation, in matricial calculations.
 
 ## Piezoelectric Effect
 
