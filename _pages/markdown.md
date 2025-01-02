@@ -7,9 +7,24 @@ redirect_from:
   - /markdown.html
 ---
 
-Under construction...
+Here, equations and modeling examples are intended to be here soon...
 
-Equations and modeling examples from engineering problems are intended to be here soon...
+## Acoustic Waves 
+
+
+## Piezoelectric Effect
+
+
+The governing equations for piezoelectric materials are given by (stress-charge form):
+
+$$
+\displaylines{
+\mathbf{D}&=\boldsymbol{\epsilon}^{\varepsilon}\boldsymbol{\cdot}\mathbf{E}+\mathbf{e}\boldsymbol{:}\boldsymbol{\varepsilon}, \label{eq:const_piez_D}\\
+\boldsymbol{\sigma}&=-{\mathbf{e}}\boldsymbol{\cdot}\mathbf{E}+\mathbf{c}^{E}\boldsymbol{:}\boldsymbol{\varepsilon}
+}
+$$
+where $\mathbf{D}$ is the electric displacement vector, $\boldsymbol{\epsilon}$ is the dielectric permittivity second order tensor, $\mathbf{E}$ is the electric field vector, and $\mathbf{e}$ represents the piezoelectric coupling third order tensor, with components being \textit{piezoelectric stress constants}. The superscripts $\varepsilon$ and $E$ were added to the dielectric permittivity tensor  $\boldsymbol{\epsilon}$ and to the elastic tensor $\mathbf{c}$ to indicate that their components are measured under conditions of constant strain and constant electric field, respectively. 
+
 
 ## Cylindrical Waves 
 
@@ -22,4 +37,4 @@ $$
 $$
 
 
-
+## References
