@@ -111,7 +111,7 @@ $$
 
 where \\(\boldsymbol{\sigma}\\) is the stress tensor, \\(\mathbf{u}(\mathbf{x},t)\\) is the displacement vector, \\(\rho\\) is the density, and the body forces, in this case, are neglected. 
 
-For linear elastic materials the constitutive equations are given by
+For linear elastic materials, the constitutive equations are given by
 
 $$
 \displaylines{
@@ -119,7 +119,7 @@ $$
 }
 $$
 
-where \\(\mathbf{c}\\) is the constitutive fourth order elasticity tensor of the material and \\(\boldsymbol{\varepsilon}\\) is the strain tensor. In fact, the strain tensor is related to the displacement, in linearized form, by
+where \\(\mathbf{c}\\) is the constitutive fourth-order elasticity tensor of the material and \\(\boldsymbol{\varepsilon}\\) is the strain tensor. In fact, the strain tensor is related to the displacement, in linearized form, by
 
 $$
 \displaylines{
@@ -183,7 +183,7 @@ $$
 }
 $$
 
-where \\( \mathbf{u}__{\mathrm{L}} \\) is the irrotational part of displacement, and represents the longitudinal displacement of the continuum, and \\( \mathbf{u}_{\mathrm{T}} \\) is a divergence-free vector field that preserves the volume, representing the transversal component of the displacement (shearing motion). 
+where \\{ \mathbf{u}__{\mathrm{L}} \\} is the irrotational part of displacement, and represents the longitudinal displacement of the continuum, and \\{ \mathbf{u}_{\mathrm{T}} \\} is a divergence-free vector field that preserves the volume, representing the transversal component of the displacement (shearing motion). 
 
 Manipulation of the Navier-Cauchy equations leads to the following wave equations
 
