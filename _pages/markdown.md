@@ -69,7 +69,7 @@ Assuming a general relation between pressure and density, one can write
 
 $$
 \displaylines{
-p_{0}+\bar{p}=p(\rho_{0}+\bar{\rho}) \rightarrow p_{0}+\bar{p}\approx p(\rho_{0})+\frac{dp}{d\rho}\bigg|_{\rho_{0}} \bar{\rho}
+p_{0}+\bar{p}\approx p(\rho_{0})+\frac{dp}{d\rho}\bigg|_{\rho_{0}} \bar{\rho}
 }
 $$
 
@@ -81,15 +81,15 @@ $$
 }
 $$
 
-With the appropriate substitutions, one can have the linearized equation
+With the appropriate substitutions, one obtains the linearized equation
 
 $$
 \displaylines{
-frac{d^{2}\bar{p}}{dt^{2}}=-c_{f}^{2}\rho_{0}\nabla\cdot\frac{d\mathbf{v}}{dt}
+\frac{d^{2}\bar{p}}{dt^{2}}=-c_{f}^{2}\rho_{0}\nabla\cdot\frac{d\mathbf{v}}{dt}.
 }
 $$
 
-Therefore, the wave equation can be reached
+Therefore, the wave equation is reached
 
 $$
 \displaylines{
