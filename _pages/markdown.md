@@ -91,7 +91,7 @@ $$
 }
 $$
 
-Therefore, the wave equation is reached
+Therefore, the wave equation, in terms of pressure, can be found
 
 $$
 \displaylines{
@@ -99,6 +99,17 @@ $$
 }
 $$
 
+## Waves in Elastic Solids
+
+For an elastic media, one can apply Newton's second law, for each infinitesimal particle, to obtain the governing equations
+
+$$
+\displaylines{
+\nabla \cdot \sigma=\rho\frac{\partial^{2}u}{\partial t^{2}},
+}
+$$
+
+where \\(\boldsymbol{\sigma}\\) is the stress tensor, \\(\mathbf{u}(\mathbf{x},t)\\) is the displacement vector, \\(\rho\\) is the density, and the body forces, in this case, are neglected. 
 
 
 ## Piezoelectric Effect
