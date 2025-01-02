@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Examples"
+title: "Modeling Background"
 author_profile: true
 redirect_from: 
   - /md/
@@ -129,6 +129,8 @@ $$
 
 in which the underline \\(\underline{\square}\\) means a transpose operation, in matricial calculations.
 
+The stress and the strain tensors are of second order, however, as they are symmetric, they can be represented as column vectors by using the Voigt notation \cite{auld1973acoustic}, in which the indexes equivalence is presented in the following table, for each coordinate system (\\(x,y,z\\) or  \\(r, \theta, z\\)). 
+
 (...)
 
 Manipulation of Navier-Cauchy equations, leads to the following wave equations
@@ -159,9 +161,11 @@ and
 
 $$
 \displaylines{
-c_{\mathrm{T}}=\sqrt{\frac{\mu}{\rho}}.
+c_{\mathrm{T}}=\sqrt{\frac{\mu}{\rho}}
 }
 $$
+
+are the longitudinal and transversal bulk wave speeds of the material, respectively.
 
 ## Piezoelectric Effect
 
@@ -181,15 +185,15 @@ $$
 where \\(\mathbf{D}\\) is the electric displacement vector, \\(\boldsymbol{\epsilon}\\) is the dielectric permittivity second order tensor, \\(\mathbf{E}\\) is the electric field vector, and \\(\mathbf{e}\\) represents the piezoelectric coupling third order tensor, with components being _piezoelectric stress constants_. The superscripts \\(\varepsilon\\) and \\(E\\) were added to the dielectric permittivity tensor  \\(\boldsymbol{\epsilon}\\) and to the elastic tensor \\(\mathbf{c}\\) to indicate that their components are measured under conditions of constant strain and constant electric field, respectively. 
 
 
-## Cylindrical Waves 
+<!-- ## Cylindrical Waves 
 
-An so we have the wave equation in cylindrical coordinates:
+And so we have the wave equation in cylindrical coordinates:
 
 $$
 \displaylines{
 \frac{\partial^{2}u_{r}}{\partial r^{2}}+\frac{\partial}{\partial r}\left(\frac{1}{r}u_{r}\right)-\frac{1}{c_{\mathrm{L}}^{2}}\frac{\partial^{2}u_{r}}{\partial t^{2}}=0
 }
-$$
+$$ -->
 
 
 ## References
