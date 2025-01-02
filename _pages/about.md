@@ -51,7 +51,11 @@ This model was developed during my doctorate, and was part of a challenging proj
 
 So, the model consists of a section of an oil well that undergoes an inspection analysis using acoustic waves. Therefore, an acoustic signal is generated inside the inner tube, at the upper part, and guided waves follow downwards, carrying information from the layers, including those of the cement.
 
-![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: .align-center width="460px"} ![Image of an oil well](/images/Well_Simulation_Movement.gif){: .align-center width="520px"}
+![Image of an oil well](/images/Well_Simulation_Movement.gif){: .align-center width="520px"} 
+
+In more realistic configurations, there is often the presence of eccentricity between the tubes. Therefore, the use of 3D models is mandatory. However, due to the frequencies of the acoustic signals, the mesh tended to be very heavy, requiring a large amount of computational resources. In this case, parallelization in HPCs could be an interesting alternative. So, during the project, to optimize this usage the same model was constructed using open-source tools. In this case, the mesh was constructed in GMSH, and the compilation was performed with the openCFS tool, which is basically based on C++. Then, to obtain the obtain the information of interest, the ParaView software was used, giving as well the image on this page. 
+
+![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: .align-center width="460px"} 
 
 
 ## Modeling the transmission of an acoustic wave from a piezoelectric transducer 
