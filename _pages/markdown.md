@@ -133,8 +133,8 @@ The stress and the strain tensors are of second order, however, as they are symm
 
 | Coordinates | 1 | 2 | 3 | 4 | 5 | 6 |
 |:--------:|:-------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-| Cartesian  | xx   | yy   | zz   | yz,zy   | xz,zx   | xy,yx   |
-| Cylindrical   | rr   | \\(\theta\\) \\(\theta\\)   | zz   | \\(\theta\\)z,z\\(\theta\\)   | rz,zr   | r\\(\theta\\),\\(\theta\\)r   |
+| Cartesian  | \\(xx\\)   | \\(yy\\)   | \\(zz\\)   | \\(yz,zy\\)   | \\(xz,zx\\)   | \\(xy,yx\\)   |
+| Cylindrical   | \\(rr\\)   | \\(\theta \theta\\)   | \\(zz\\)   | \\(\theta z, z \theta\\)   | \\(rz,zr\\)   | \\(r \theta,\theta r\\)   |
 
 (...)
 
