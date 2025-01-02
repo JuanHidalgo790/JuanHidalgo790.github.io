@@ -23,6 +23,7 @@ $$
 \boldsymbol{\sigma}&=-{\mathbf{e}}\boldsymbol{\cdot}\mathbf{E}+\mathbf{c}^{E}\boldsymbol{:}\boldsymbol{\varepsilon}
 }
 $$
+
 where $\mathbf{D}$ is the electric displacement vector, $\boldsymbol{\epsilon}$ is the dielectric permittivity second order tensor, $\mathbf{E}$ is the electric field vector, and $\mathbf{e}$ represents the piezoelectric coupling third order tensor, with components being \textit{piezoelectric stress constants}. The superscripts $\varepsilon$ and $E$ were added to the dielectric permittivity tensor  $\boldsymbol{\epsilon}$ and to the elastic tensor $\mathbf{c}$ to indicate that their components are measured under conditions of constant strain and constant electric field, respectively. 
 
 
