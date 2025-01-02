@@ -131,6 +131,14 @@ in which the underline \\(\underline{\square}\\) means a transpose operation, in
 
 The stress and the strain tensors are of second order, however, as they are symmetric, they can be represented as column vectors by using the Voigt notation \cite{auld1973acoustic}, in which the indexes equivalence is presented in the following table, for each coordinate system (\\(x,y,z\\) or  \\(r, \theta, z\\)). 
 
+| Coordinates | 1 | 2 | 3 | 4 | 5 | 6 |
+|:--------:|:-------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Cartesian  | xx   | yy   | zz   | yz,zy   | xz,zx   | xy,yx   |
+|-----------------------------|
+| cell1   | cell2   | cell3   | cell2   | cell3   | cell2   | cell4 |
+|=============================|
+| Cylindrical   | rr   | \\(\theta \theta\\)   | zz   | \\(\theta\\)z,z\\(\theta\\)   | rz,zr   | r\\(\theta\\),\\(\theta\\)r   |
+
 (...)
 
 Manipulation of Navier-Cauchy equations, leads to the following wave equations
