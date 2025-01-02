@@ -47,7 +47,7 @@ Here, I leave some examples that were constructed during these recent years. Nex
 
 ## Modeling of an oil well under acoustic logging
 
-
+This model was derived from a challenging project, which consisted in developing robust simulation models of the acoustic logging of oil wells, intended to be abandoned, for feeding a databasis for a machine learning algorithm
 
 ![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: .align-center width="460px"} ![Image of an oil well](/images/Well_Simulation_Movement.gif){: .align-center width="520px"}
  
