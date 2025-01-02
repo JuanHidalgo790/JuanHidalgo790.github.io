@@ -136,9 +136,56 @@ The stress and the strain tensors are of second order, however, as they are symm
 | Cartesian  | \\(xx\\)   | \\(yy\\)   | \\(zz\\)   | \\(yz,zy\\)   | \\(xz,zx\\)   | \\(xy,yx\\)   |
 | Cylindrical   | \\(rr\\)   | \\(\theta \theta\\)   | \\(zz\\)   | \\(\theta z, z \theta\\)   | \\(rz,zr\\)   | \\(r \theta,\theta r\\)   |
 
-(...)
+For the strain components \\(\varepsilon_{4}\\), \\(\varepsilon_{5}\\) and \\(\varepsilon_{6}\\), it is necessary to introduce the factor of 2 to properly carry out the conversion between the systems, as indicated in the following table  
 
-Manipulation of Navier-Cauchy equations, leads to the following wave equations
+| Coordinates | 1 | 2 | 3 | 4 | 5 | 6 |
+|:--------:|:-------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Cartesian  | \\(\varepsilon_{xx}\\)   | \\(\varepsilon_{yy}\\)   | \\(\varepsilon_{zz}\\)   | \\(2\varepsilon_{yz}\\)   | \\(2\varepsilon_{xz}\\)   | \\(2\varepsilon_{xy}\\)   |
+| Cylindrical   | \\(\varepsilon_{rr}\\)   | \\(\varepsilon_{\theta \theta}\\)   | \\(\varepsilon_{zz}\\)   | \\(2\varepsilon_{\theta z}\\)   | \\(2\varepsilon_{rz}\\)   | \\(2\varepsilon_{r \theta}\\)   |
+
+In an isotropic material, using symmetry considerations, one can represent the fourth-order constitutive tensor as a matrix (Voigt Notation), so that the constitutive equation can be written in matrix form, as:
+
+$$
+\displaylines{
+\begin{bmatrix}\sigma_{1}\\\sigma_{2}\\\sigma_{3}\\\sigma_{4}\\\sigma_{5}\\\sigma_{6}\end{bmatrix}=\left[\begin{array}{cccccc}\gls{lambda}+2\gls{mu}&\lambda&\lambda&0&0&0\\
+\lambda&\lambda+2\mu&\lambda&0&0&0\\
+\lambda&\lambda&\lambda+2\mu&0&0&0\\
+0&0&0&\mu&0&0\\
+0&0&0&0&\mu&0\\
+0&0&0&0&0&\mu\end{array}\right]\begin{bmatrix}\varepsilon_{1}\\\varepsilon_{2}\\\varepsilon_{3}\\\varepsilon_{4}\\\varepsilon_{5}\\\varepsilon_{6}\end{bmatrix}
+}
+$$
+
+where \\(\lambda\\) and \\(\mu\\) are the first and the second Lamé coefficients, respectively, that define the elastic properties of the isotropic material. This  is valid for both Cartesian and cylindrical coordinates. 
+
+With some manipulations in Newton's second law, one obtains, for an isotropic material, the Navier-Cauchy equations (with body forces neglected)
+
+$$
+\displaylines{
+(\lambda +2\mu)\nabla(\nabla\cdot\mathbf{u})-\mu\nabla\times\nabla\times\mathbf{u}=\rho\frac{\partial^{2}\mathbf{u}}{\partial t^{2}}.
+}
+$$
+
+The displacement vector \\(\mathbf{u}(\mathbf{x},t)\\) can be decomposed, due to Helmholtz decomposition, as 
+
+$$
+\displaylines{
+\mathbf{u}(\mathbf{x},t)=\gls{uL}(\mathbf{x},t)+\gls{uT}(\mathbf{x},t),
+}
+$$
+
+such that
+
+$$
+\displaylines{
+\nabla \times \mathbf{u}_{\mathrm{L}}&=0\\
+\nabla \cdot \mathbf{u}_{\mathrm{T}}&=0,
+}
+$$
+
+where \\(\mathbf{u}_{\mathrm{L}}\\) is the irrotational part of displacement, and represents the longitudinal displacement of the continuum, and \\(\mathbf{u}_{\mathrm{T}}\\) is a divergence-free vector field that preserves the volume, representing the transversal component of the displacement (shearing motion). 
+
+Manipulation of the Navier-Cauchy equations leads to the following wave equations
 
 $$
 \displaylines{
