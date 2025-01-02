@@ -11,10 +11,25 @@ Here, equations and modeling examples are intended to be here soon...
 
 ## Acoustic Waves 
 
+An inviscid fluid under a pressure field \\(p(\mathbf{x},t)\\) has its motion governed by the Euler equation 
+
+$$
+\displaylines{
+\gls{rho} \frac{D\gls{v}}{Dt}=-\nabla \gls{p}
+}
+$$
+
+where \\(\mathbf{v}(\mathbf{x},t)\\) is the fluid velocity field, \\(\rho(\mathbf{x},t)\\) is the density field, \\(\nabla p\\) is the gradient of the scalar function \\(p(\mathbf{x},t)\\), and \\(D\mathbf{v}/Dt\\) is the material derivative of \\(\mathbf{v}\\), defined as
+
+$$
+\displaylines{
+\frac{D\mathbf{v}}{Dt} &= \frac{\partial \mathbf{v}}{\partial t}+(\mathbf{v}\cdot\nabla)\mathbf{v}.
+}
+$$
 
 ## Piezoelectric Effect
 
-Piezoelectric materials have the characteristic of presenting an electrical polarization under deformation (direct piezoelectric effect), and deformation when subjected to an electric field (inverse piezoelectric effect).
+Piezoelectric materials have the characteristic of presenting an electrical polarization under deformation (**direct** piezoelectric effect), and deformation when subjected to an electric field (**inverse** piezoelectric effect).
 
 ![Image of the piezoelectric effect](/images/PiezoEffectJuan.png){: .align-center width="750px"}
 
