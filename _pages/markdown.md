@@ -136,7 +136,7 @@ The stress and the strain tensors are of second order, however, as they are symm
 | Cartesian  | \\(xx\\)   | \\(yy\\)   | \\(zz\\)   | \\(yz,zy\\)   | \\(xz,zx\\)   | \\(xy,yx\\)   |
 | Cylindrical   | \\(rr\\)   | \\(\theta \theta\\)   | \\(zz\\)   | \\(\theta z, z \theta\\)   | \\(rz,zr\\)   | \\(r \theta,\theta r\\)   |
 
-For the strain components \\(\varepsilon_{4}\\), \\(\varepsilon_{5}\\) and \\(\varepsilon_{6}\\), it is necessary to introduce the factor of 2 to properly carry out the conversion between the systems, as indicated in the following table  
+For the strain components \\(\varepsilon_{4}\\), \\(\varepsilon_{5}\\) and \\(\varepsilon_{6}\\), it is necessary to introduce the factor of 2 to properly carry out the conversion between the systems, as indicated in the following table.  
 
 | Coordinates | 1 | 2 | 3 | 4 | 5 | 6 |
 |:--------:|:-------:|:--------:|:--------:|:--------:|:--------:|:--------:|
@@ -152,7 +152,7 @@ $$
 \lambda&\lambda&\lambda+2\mu&0&0&0\\
 0&0&0&\mu&0&0\\
 0&0&0&0&\mu&0\\
-0&0&0&0&0&\mu\end{array}\right]\begin{bmatrix}\varepsilon_{1}\\\varepsilon_{2}\\\varepsilon_{3}\\\varepsilon_{4}\\\varepsilon_{5}\\\varepsilon_{6}\end{bmatrix}
+0&0&0&0&0&\mu\end{array}\right]\begin{bmatrix}\varepsilon_{1}\\\varepsilon_{2}\\\varepsilon_{3}\\\varepsilon_{4}\\\varepsilon_{5}\\\varepsilon_{6}\end{bmatrix},
 }
 $$
 
@@ -189,7 +189,7 @@ Manipulation of the Navier-Cauchy equations leads to the following **wave equati
 
 $$
 \displaylines{
-\nabla^{2}\mathbf{u}_{\mathrm{L}}-\frac{1}{c_{\mathrm{L}}^{2}}\frac{\partial^{2}\mathbf{u}_{\mathrm{L}}}{\partial t^{2}}=0
+\nabla^{2}\mathbf{u}_{\mathrm{L}}-\frac{1}{c_{\mathrm{L}}^{2}}\frac{\partial^{2}\mathbf{u}_{\mathrm{L}}}{\partial t^{2}}=0,
 }
 $$
 
@@ -197,7 +197,7 @@ and
 
 $$
 \displaylines{
-\nabla^{2}\mathbf{u}_{\mathrm{T}}-\frac{1}{c_{\mathrm{T}}^{2}}\frac{\partial^{2}\mathbf{u}_{\mathrm{T}}}{\partial t^{2}}=0
+\nabla^{2}\mathbf{u}_{\mathrm{T}}-\frac{1}{c_{\mathrm{T}}^{2}}\frac{\partial^{2}\mathbf{u}_{\mathrm{T}}}{\partial t^{2}}=0,
 }
 $$
 
@@ -205,7 +205,7 @@ where
 
 $$
 \displaylines{
-c_{\mathrm{L}}=\sqrt{\frac{\lambda+2\mu}{\rho}},
+c_{\mathrm{L}}=\sqrt{\frac{\lambda+2\mu}{\rho}}
 }
 $$
 
@@ -229,7 +229,7 @@ The governing equations for piezoelectric materials are given by (stress-charge 
 
 $$
 \displaylines{
-\mathbf{D}&=\boldsymbol{\epsilon}^{\varepsilon}\boldsymbol{\cdot}\mathbf{E}+\mathbf{e}\boldsymbol{:}\boldsymbol{\varepsilon}, \label{eq:const_piez_D}\\
+\mathbf{D}&=\boldsymbol{\epsilon}^{\varepsilon}\boldsymbol{\cdot}\mathbf{E}+\mathbf{e}\boldsymbol{:}\boldsymbol{\varepsilon},\\
 \boldsymbol{\sigma}&=-{\mathbf{e}}\boldsymbol{\cdot}\mathbf{E}+\mathbf{c}^{E}\boldsymbol{:}\boldsymbol{\varepsilon}
 }
 $$
