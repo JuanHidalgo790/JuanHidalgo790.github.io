@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-Here, the idea is to show equations and modeling examples 
+Here, equations that are part of the examples presented in the homepage are depicted. Soon, other more examples and methods will be added.
 
 ## Acoustic Waves in Fluids
 
@@ -91,7 +91,7 @@ $$
 }
 $$
 
-Therefore, the wave equation, in terms of pressure, can be found
+Therefore, the **wave equation**, in terms of pressure, can be found
 
 $$
 \displaylines{
@@ -129,7 +129,7 @@ $$
 
 in which the underline \\(\underline{\square}\\) means a transpose operation, in matricial calculations.
 
-The stress and the strain tensors are of second order, however, as they are symmetric, they can be represented as column vectors by using the Voigt notation \cite{auld1973acoustic}, in which the indexes equivalence is presented in the following table, for each coordinate system (\\(x,y,z\\) or  \\(r, \theta, z\\)). 
+The stress and the strain tensors are of second order, however, as they are symmetric, they can be represented as column vectors by using the Voigt notation, in which the indexes equivalence is presented in the following table, for each coordinate system (\\(x,y,z\\) or  \\(r, \theta, z\\)). 
 
 | Coordinates | 1 | 2 | 3 | 4 | 5 | 6 |
 |:--------:|:-------:|:--------:|:--------:|:--------:|:--------:|:--------:|
@@ -178,14 +178,14 @@ such that
 
 $$
 \displaylines{
-\nabla \times \mathbf{u}_{\mathrm{L}}&=0\\
+\nabla \times \mathbf{u}_{\mathrm{L}}&=0,\\
 \nabla \cdot \mathbf{u}_{\mathrm{T}}&=0,
 }
 $$
 
 where \\(\mathbf{u}\_{\mathrm{L}} \\) is the irrotational part of displacement, and represents the longitudinal displacement of the continuum, and \\( \mathbf{u}\_{\mathrm{T}} \\) is a divergence-free vector field that preserves the volume, representing the transversal component of the displacement (shearing motion). 
 
-Manipulation of the Navier-Cauchy equations leads to the following wave equations
+Manipulation of the Navier-Cauchy equations leads to the following **wave equations**
 
 $$
 \displaylines{
@@ -217,7 +217,7 @@ c_{\mathrm{T}}=\sqrt{\frac{\mu}{\rho}}
 }
 $$
 
-are the longitudinal and transversal bulk wave speeds of the material, respectively.
+are the **longitudinal** and **transversal** bulk wave speeds of the material, respectively.
 
 ## Piezoelectric Effect
 
