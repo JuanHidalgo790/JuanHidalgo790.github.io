@@ -27,6 +27,36 @@ $$
 }
 $$
 
+The second governing equation is the mass conservation, or continuity equation, given by
+
+$$
+\displaylines{
+\frac{\partial \rho}{\partial t}=-\nabla \cdot (\rho \mathbf{v})
+}
+$$
+
+where the operation \\(\nabla \cdot[ \phantom{ii} ]\\) indicates divergence of the argument vector.
+
+Considering small oscillations in the fluid
+
+$$
+\displaylines{
+&p(\mathbf{x},t)=p_{0}+\bar{p}(\mathbf{x},t),\\
+&\rho(\mathbf{x},t)=\rho_{0}+\bar{rho}(\mathbf{x},t)
+}
+$$
+
+in which \\(p_{0}\\) and \\(\rho_{0}\\) are, respectively, the ambient pressure and density of the fluid when static, and \\(\bar{p}(\mathbf{x},t)\\) and \\(\bar{\rho}(\mathbf{x},t)\\) are their small variations, due to small oscillations. 
+
+Thus, one can find the following linearized governing equations
+
+$$
+\displaylines{
+&\rho_{0}\frac{d\mathbf{v}}{dt}=-\nabla\bar{p},
+&\frac{d\bar{\rho}}{dt}=-\rho_{0}\nabla \cdot \mathbf{v}.
+}
+$$
+
 ## Piezoelectric Effect
 
 Piezoelectric materials have the characteristic of presenting an electrical polarization under deformation (**direct** piezoelectric effect), and deformation when subjected to an electric field (**inverse** piezoelectric effect).
