@@ -81,6 +81,22 @@ $$
 }
 $$
 
+With the appropriate substitutions, one can have the linearized equation
+
+$$
+\displaylines{
+frac{d^{2}\bar{p}}{dt^{2}}=-c_{f}^{2}\rho_{0}\nabla\cdot\frac{d\mathbf{v}}{dt}
+}
+$$
+
+Therefore, the wave equation can be reached
+
+$$
+\displaylines{
+\nabla^{2}\bar{p}-\frac{1}{c_{f}^{2}}\frac{d^{2}\bar{p}}{dt^{2}}=0.
+}
+$$
+
 
 
 ## Piezoelectric Effect
