@@ -15,7 +15,7 @@ An inviscid fluid under a pressure field \\(p(\mathbf{x},t)\\) has its motion go
 
 $$
 \displaylines{
-\gls{rho} \frac{D\gls{v}}{Dt}=-\nabla \gls{p}
+\rho \frac{Dv}{Dt}=-\nabla p
 }
 $$
 
