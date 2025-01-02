@@ -14,7 +14,9 @@ Here, equations and modeling examples are intended to be here soon...
 
 ## Piezoelectric Effect
 
-![Image of the piezoelectric effect](/images/PiezoEffectJuan.png){: .align-center width="800px"}
+Piezoelectric materials have the characteristic of presenting an electrical polarization under deformation (direct piezoelectric effect), and deformation when subjected to an electric field (inverse piezoelectric effect).
+
+![Image of the piezoelectric effect](/images/PiezoEffectJuan.png){: .align-center width="750px"}
 
 
 The governing equations for piezoelectric materials are given by (stress-charge form):
