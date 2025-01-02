@@ -129,6 +129,8 @@ $$
 
 in which the underline \\(\underline{\square}\\) means a transpose operation, in matricial calculations.
 
+(...)
+
 Manipulation of Navier-Cauchy equations, leads to the following wave equations
 
 $$
@@ -149,7 +151,7 @@ where
 
 $$
 \displaylines{
-c_{L}=\sqrt{\frac{\lambda+2\mu}{\rho}},
+c_{\mathrm{L}}=\sqrt{\frac{\lambda+2\mu}{\rho}},
 }
 $$
 
@@ -157,7 +159,7 @@ and
 
 $$
 \displaylines{
-c_{T}=\sqrt{\frac{\mu}{\rho}}.
+c_{\mathrm{T}}=\sqrt{\frac{\mu}{\rho}}.
 }
 $$
 
