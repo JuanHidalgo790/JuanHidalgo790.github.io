@@ -47,9 +47,9 @@ Here, I leave some examples that were constructed during these recent years. Nex
 
 ## Modeling of an oil well under acoustic logging
 
-This model was constructed during a challenging project, which consisted in giving a robust database for exploring machine learning techniques for the identification of cement defects in oil wells, for abandonment purposes. 
+This model was developed during my doctorate, and was part of a challenging project which consisted in the development of AI models for identifying the integrity of the annular cement of oil wells, based on acoustic logging data. 
 
-So, a signal is generated inside by an acoustic tool and guided waves appear inside, giving information about the well integrity.
+So, the model consists of a section of an oil well that undergoes an inspection analysis using acoustic waves. Therefore, an acoustic signal is generated inside the inner tube, at the upper part, and guided waves follow downwards, carrying information from the layers, including those of the cement.
 
 ![Image of a mesh of an oil well](/images/GMSH_3pipes_3D_mesh_eccentricity_cut.png){: .align-center width="460px"} ![Image of an oil well](/images/Well_Simulation_Movement.gif){: .align-center width="520px"}
 
