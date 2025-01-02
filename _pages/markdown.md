@@ -18,7 +18,6 @@ Piezoelectric materials have the characteristic of presenting an electrical pola
 
 ![Image of the piezoelectric effect](/images/PiezoEffectJuan.png){: .align-center width="750px"}
 
-
 The governing equations for piezoelectric materials are given by (stress-charge form):
 
 $$
