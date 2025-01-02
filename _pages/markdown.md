@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-Here, equations that are part of the examples presented in the homepage are depicted. Soon, other more examples and methods will be added.
+Here, equations behind the examples presented on the homepage are depicted. Soon, other examples and methods will be added.
 
 ## Acoustic Waves in Fluids
 
