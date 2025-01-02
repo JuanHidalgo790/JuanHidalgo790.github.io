@@ -115,7 +115,7 @@ For linear elastic materials the constitutive equations are given by
 
 $$
 \displaylines{
-\boldsymbol{\sigma}=\mathbf{c}\boldsymbol{:}\boldsymbol{varepsilon},
+\boldsymbol{\sigma}=\mathbf{c}\boldsymbol{:}\boldsymbol{\varepsilon},
 }
 $$
 
@@ -128,6 +128,38 @@ $$
 $$
 
 in which the underline \\(\underline{\square}\\) means a transpose operation, in matricial calculations.
+
+Manipulation of Navier-Cauchy equations, leads to the following wave equations
+
+$$
+\displaylines{
+\nabla^{2}\mathbf{u}_{\mathrm{L}}-\frac{1}{c_{\mathrm{L}}^{2}}\frac{\partial^{2}\mathbf{u}_{\mathrm{L}}}{\partial t^{2}}=0
+}
+$$
+
+and 
+
+$$
+\displaylines{
+\nabla^{2}\mathbf{u}_{\mathrm{T}}-\frac{1}{c_{\mathrm{T}}^{2}}\frac{\partial^{2}\mathbf{u}_{\mathrm{T}}}{\partial t^{2}}=0
+}
+$$
+
+where 
+
+$$
+\displaylines{
+c_{L}=\sqrt{\frac{\lambda+2\mu}{\rho}},
+}
+$$
+
+and
+
+$$
+\displaylines{
+c_{T}=\sqrt{\frac{\mu}{\rho}}.
+}
+$$
 
 ## Piezoelectric Effect
 
