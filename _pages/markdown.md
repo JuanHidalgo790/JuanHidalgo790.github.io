@@ -147,7 +147,7 @@ In an isotropic material, using symmetry considerations, one can represent the f
 
 $$
 \displaylines{
-\begin{bmatrix}\sigma_{1}\\\sigma_{2}\\\sigma_{3}\\\sigma_{4}\\\sigma_{5}\\\sigma_{6}\end{bmatrix}=\left[\begin{array}{cccccc}\gls{lambda}+2\gls{mu}&\lambda&\lambda&0&0&0\\
+\begin{bmatrix}\sigma_{1}\\\sigma_{2}\\\sigma_{3}\\\sigma_{4}\\\sigma_{5}\\\sigma_{6}\end{bmatrix}=\left[\begin{array}{cccccc}\lambda+2\mu&\lambda&\lambda&0&0&0\\
 \lambda&\lambda+2\mu&\lambda&0&0&0\\
 \lambda&\lambda&\lambda+2\mu&0&0&0\\
 0&0&0&\mu&0&0\\
@@ -170,7 +170,7 @@ The displacement vector \\(\mathbf{u}(\mathbf{x},t)\\) can be decomposed, due to
 
 $$
 \displaylines{
-\mathbf{u}(\mathbf{x},t)=\gls{uL}(\mathbf{x},t)+\gls{uT}(\mathbf{x},t),
+\mathbf{u}(\mathbf{x},t)=\mathbf{u}_{\mathrm{L}}(\mathbf{x},t)+\mathbf{u}_{\mathrm{T}}(\mathbf{x},t),
 }
 $$
 
