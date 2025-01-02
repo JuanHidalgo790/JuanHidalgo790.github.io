@@ -65,8 +65,6 @@ Finally, to obtain the information of interest, the ParaView software was used, 
 
 For a more realistic simulation of the generation of the acoustic waves, a piezoelectric transducer, which is commonly used in acoustic logging tools, was modeled. The piezoelectric effect, relating the voltage applied to the produced deformation, was taken into account. So, using an appropriate signal, and taking advantage of the resonance mode of the longest length, nearly omnidirectional waves could be achieved. 
 
-
-
 ![Image of a piezoelectric transducer](/images/Piezo_CFS_acoustic.png){: .align-center width="800px"}
 
 To see the waveform created, a probe was placed beside the transducer's wall, leading to the black line plot. In the same plot, the internal damping effect of the transducer could also be observed after the internal reverberations. 
