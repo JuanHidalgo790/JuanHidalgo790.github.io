@@ -9,7 +9,7 @@ redirect_from:
 
 ![Illustration of modeling engineering machines using computer](/images/image__my_webpage.jpeg){: .align-right width="250px"}
 
-👨🏻‍💻 I am a doctor in mechanical engineering and an enthusiast of computational modeling for diverse engineering problems. 
+👨🏻‍💻 I am a PhD in mechanical engineering and an enthusiast of computational modeling for diverse engineering problems. 
 
 🔬 My research interests are in the development of numerical models for solving acoustic problems, with approaches focused on optimizing computational resources.
 
