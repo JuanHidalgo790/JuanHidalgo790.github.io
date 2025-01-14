@@ -240,7 +240,7 @@ $$
 
 where \\(\mathbf{D}\\) is the electric displacement vector, \\(\boldsymbol{\epsilon}\\) is the dielectric permittivity second order tensor, \\(\mathbf{E}\\) is the electric field vector, and \\(\mathbf{e}\\) represents the piezoelectric coupling third-order tensor, with components being _piezoelectric stress constants_. The superscripts \\(\varepsilon\\) and \\(E\\) were added to the dielectric permittivity tensor  \\(\boldsymbol{\epsilon}\\) and to the elastic tensor \\(\mathbf{c}\\) to indicate that their components are measured under conditions of constant strain and constant electric field, respectively. 
 
-The constitutive piezoelectric equations can be written in matrix form by using symmetry considerations and Voigt notation, with the appropriate conventions for strain and stress tensors conversion to column vectors. For a 6mm crystal class, one has, in Cartesian coordinates, the following matrix equations
+The **constitutive piezoelectric equations** can be written in **matrix form** by using symmetry considerations and Voigt notation, with the appropriate conventions for strain and stress tensors conversion to column vectors. For a 6mm crystal class, one has, in Cartesian coordinates, the following matrix equations
 
 $$
 \displaylines{
