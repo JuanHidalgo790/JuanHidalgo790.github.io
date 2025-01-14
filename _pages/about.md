@@ -13,7 +13,7 @@ redirect_from:
 
 🔬 My research interests are in the development of numerical models for solving acoustic problems, with approaches focused on optimizing computational resources.
 
-📚 I am currently working with electromagnetic acoustic transducers (EMATs) in my post-doctoral research, aiming to improve their designs.
+📚 I am currently working with electromagnetic acoustic transducers (EMATs) in my post-doctoral research, aiming to improve their designs. Also, I'm working with the acoustoelastic effect applied to the non-destructive testing (NDT) area using Lamb waves. 
 
 🧪 Some of my previous creations will be featured on this webpage.
 
