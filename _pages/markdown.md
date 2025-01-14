@@ -227,7 +227,7 @@ Piezoelectric materials have the characteristic of presenting an electrical pola
 
 The piezoelectric effect can be explained by the appearance of electric dipoles inside the crystalline structure of the material. The application of mechanical stress, and consequently a deformation, changes the intensity of polarization.
 
-![Image of the piezoelectric effect](/images/PiezoEffectJuanCharges.png){: .align-center width="750px"}
+![Image of the piezoelectric effect](/images/PiezoEffectJuanCharges.png){: .align-center width="650px"}
 
 The governing equations for piezoelectric materials are given by (stress-charge form):
 
