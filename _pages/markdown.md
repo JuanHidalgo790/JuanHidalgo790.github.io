@@ -238,8 +238,18 @@ $$
 }
 $$
 
-where \\(\mathbf{D}\\) is the electric displacement vector, \\(\boldsymbol{\epsilon}\\) is the dielectric permittivity second order tensor, \\(\mathbf{E}\\) is the electric field vector, and \\(\mathbf{e}\\) represents the piezoelectric coupling third order tensor, with components being _piezoelectric stress constants_. The superscripts \\(\varepsilon\\) and \\(E\\) were added to the dielectric permittivity tensor  \\(\boldsymbol{\epsilon}\\) and to the elastic tensor \\(\mathbf{c}\\) to indicate that their components are measured under conditions of constant strain and constant electric field, respectively. 
+where \\(\mathbf{D}\\) is the electric displacement vector, \\(\boldsymbol{\epsilon}\\) is the dielectric permittivity second order tensor, \\(\mathbf{E}\\) is the electric field vector, and \\(\mathbf{e}\\) represents the piezoelectric coupling third-order tensor, with components being _piezoelectric stress constants_. The superscripts \\(\varepsilon\\) and \\(E\\) were added to the dielectric permittivity tensor  \\(\boldsymbol{\epsilon}\\) and to the elastic tensor \\(\mathbf{c}\\) to indicate that their components are measured under conditions of constant strain and constant electric field, respectively. 
 
+The constitutive piezoelectric equations can be written in matrix form by using symmetry considerations and Voigt notation, with the appropriate conventions for strain and stress tensors conversion to column vectors. For a 6mm crystal class, one has, in Cartesian coordinates, the following matrix equations
+
+$$
+\displaylines{
+\begin{bmatrix}D_{x}\\D_{y}\\D_{z}\end{bmatrix}=&\left[\begin{array}{ccc}\epsilon_{xx}^{\varepsilon}&0&0\\0&\epsilon_{yy}^{\varepsilon}&0\\0&0&\epsilon_{zz}^{\varepsilon}\end{array}\right]\begin{bmatrix}E_{x}\\E_{y}\\E_{z}\end{bmatrix}\nonumber\\
+    &+\left[\begin{array}{cccccc}0&0&0&0&e_{x5}&0\\0&0&0&e_{x5}&0&0\\e_{z1}&e_{z1}&e_{z3}&0&0&0\end{array}\right]\begin{bmatrix}\varepsilon_{xx}\\\varepsilon_{yy}\\\varepsilon_{zz}\\2\varepsilon_{yz}\\2\varepsilon_{xz}\\2\varepsilon_{xy}\end{bmatrix},\\
+    \begin{bmatrix}\sigma_{xx}\\\sigma_{yy}\\\sigma_{zz}\\\sigma_{yz}\\\sigma_{xz}\\\sigma_{xy}\end{bmatrix}=&-\left[\begin{array}{ccc}0&0&e_{z1}\\0&0&e_{z1}\\0&0&e_{z3}\\0&e_{x5}&0\\e_{x5}&0&0\\0&0&0\end{array}\right]\begin{bmatrix}E_{x}\\E_{y}\\E_{z}\end{bmatrix}\nonumber\\
+    &+\left[\begin{array}{cccccc}c_{11}^{E}&c_{12}^{E}&c_{13}^{E}&0&0&0\\c_{12}^{E}&c_{11}^{E}&c_{13}^{E}&0&0&0\\c_{13}^{E}&c_{13}^{E}&c_{33}^{E}&0&0&0\\0&0&0&c_{44}^{E}&0&0\\0&0&0&0&c_{44}^{E}&0\\0&0&0&0&0&\frac{1}{2}(c_{11}^{E}-c_{12}^{E})\end{array}\right]\begin{bmatrix}\varepsilon_{xx}\\\varepsilon_{yy}\\\varepsilon_{zz}\\2\varepsilon_{yz}\\2\varepsilon_{xz}\\2\varepsilon_{xy}\end{bmatrix}.
+}
+$$
 
 <!-- ## Cylindrical Waves 
 
