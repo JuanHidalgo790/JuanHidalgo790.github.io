@@ -69,7 +69,7 @@ For a more realistic simulation of the generation of the acoustic waves, a piezo
 
 [//]: ![Image of a piezoelectric transducer](/images/Piezo_CFS_acoustic.png){: .align-center width="800px"}
 
-![Image of a piezoelectric transducer](/images/Gif_PiezoAcoustic.gif){: .align-center width="800px"}
+![Image of a piezoelectric transducer](/images/Gif_PiezoAcoustic.gif){: .align-center width="700px"}
 
 To see the waveform created, a probe was placed beside the transducer's wall, leading to the black line plot. In the same plot, the internal damping effect of the transducer could also be observed after the internal reverberations. 
 
