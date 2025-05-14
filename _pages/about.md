@@ -79,5 +79,7 @@ The corresponding mesh in this example was _structured_ and had elements with ed
 
 ## Modeling the transmission of shear waves from an Electromagnetic Acoustic Transducer (EMAT)
 
+![Image of a piezoelectric transducer](/images/StressVonMises_PPM_paper02025.png){: .align-center width="700px"}
+
 
 
