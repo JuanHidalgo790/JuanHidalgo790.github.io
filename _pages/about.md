@@ -83,7 +83,7 @@ Here, an EMAT is modeled with twelve magnets in a configuration in which shear w
 
 The main advantage of this type of transducer is that no contact is required with the metallic plate, avoiding the use of couplants.
 
-![Image of an EMAT](/images/StressVonMises_PPM_paper02025.gif){: .align-center width="520px"}
+![Image of an EMAT](/images/StressVonMises_PPM_paper020525.gif){: .align-center width="520px"}
 
 
 
