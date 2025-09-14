@@ -251,7 +251,7 @@ $$
 
 ## Lorentz Forces
 
-Electromagnetic Acoustic Transducers (EMATs) are devices that operate through the Lorentz force by using the magnetorestrictive effect. Therefore, EMATs generate vibrations directly inside the material, allowing, with appropriate conditions, the generation of ultrasonic waves. This occurs through the interaction between a static magnetic field and an alternating induced current (Eddy's current), which generates a Lorentz Force causing vibrations in the material, consequently, the propagation of ultrasonic waves. 
+Electromagnetic Acoustic Transducers (EMATs) are devices that operate through the Lorentz force by using the magnetorestrictive effect. Therefore, EMATs generate vibrations directly inside the material, allowing, with appropriate conditions, the generation of ultrasonic waves. This occurs through the interaction between a static magnetic field and an alternating induced current (Eddy's current), which generates a Lorentz Force causing vibrations in the material, consequently, the propagation of ultrasonic waves. It is worth mentioning that, compared to the piezoelectric transducer, no contact with the plate is required here.
 
 ![Image of the Lorentz effect](/images/EMAT_draw.png){: .align-center width="650px"}
 
