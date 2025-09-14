@@ -253,7 +253,7 @@ $$
 
 In the context of transducers, EMATs are devices that operate through the Lorentz force by using the magnetorestrictive effect. Therefore, EMATs generate vibrations directly inside the material, allowing, with appropriate conditions, the generation of ultrasonic waves. This occurs through the interaction between a static magnetic field and an alternating current, which generates a Lorentz Force causing vibrations in the material, and, consequently, the propagation of ultrasonic waves. 
 
-![Image of the Lorentz effect](/images/EMAT_draw.png){: .align-center width="750px"}
+![Image of the Lorentz effect](/images/EMAT_draw.png){: .align-center width="700px"}
 
 So, the Lorentz forces can be calculated by the following vectorial product:
 
