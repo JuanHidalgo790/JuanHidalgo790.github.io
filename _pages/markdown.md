@@ -263,7 +263,7 @@ $$
 }
 $$
 
-where \\(\mathbf{F}\\) is the Lorentz force per volume unit, \\(\mathbf{J}\\) is the induced dynamic current density, and \\(\mathbf{B}_{0}\\) is the static magnetic field. 
+where \\(\mathbf{F}\\) is the Lorentz force per volume unit, \\(\mathbf{J}\\) is the induced dynamic current density, and \\(\mathbf{B}_{0}\\) is the static magnetic field [1]. 
 
 
 <!--## Cylindrical Waves 
@@ -279,5 +279,6 @@ $$
 
 ## References -->
 
-**References:**
-*   [Auld]. "[Wave Motion]." *[Book]*, [1974], [URL]. Accessed on [21 June 2025].
+**References**
+
+1.  **Why Procrastinators Procrastinate:** Urban, Tim. "Why Procrastinators Procrastinate." *Wait But Why*, 21 June 2024, https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html. Accessed on 21 June 2024.
