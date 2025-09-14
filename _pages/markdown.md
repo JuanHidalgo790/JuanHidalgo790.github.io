@@ -255,7 +255,7 @@ Electromagnetic Acoustic Transducers (EMATs) are devices that operate through th
 
 ![Image of the Lorentz effect](/images/EMAT_draw.png){: .align-center width="650px"}
 
-So, the Lorentz forces can be calculated by the following vectorial product:
+So, the Lorentz forces can be calculated by the following vectorial product
 
 $$
 \displaylines{
@@ -263,7 +263,7 @@ $$
 }
 $$
 
-where \\(\mathbf{F}\\) is the Lorentz force per volume unit, \\(\mathbf{J}\\) is the induced dynamic current density, and \\(\mathbf{B}_{0}\\) is the static magnetic field [1]. 
+where \\(\mathbf{F}\\) is the Lorentz force per volume unit, \\(\mathbf{J}\\) is the induced dynamic current density, and \\(\mathbf{B}_{0}\\) is the static magnetic field. 
 
 
 <!--## Cylindrical Waves 
@@ -279,8 +279,8 @@ $$ -->
 
 ## References 
 
-1.  Rose, J. L. "Ultrasonic guided waves in solid media.", 2014, Cambridge University Press.
-2.  Hagedorn, P. and DasGupta, A. "Vibrations and waves in continuous mechanical systems.", 2007, John Wiley & Sons.
-3.  Miklowitz, J. "The theory of elastic waves and waveguides", 2012, Elsevier.
-4.  Auld, B. A. "Acoustic fields and waves in solids.", 1973, Krieger Pub Co.
-5.  Hirao, M and Ogi, H. "Electromagnetic acoustic transducers", 2017, Springer.
+1.  Rose, J. L. "Ultrasonic guided waves in solid media.", Cambridge University Press, 2014.
+2.  Hagedorn, P., & DasGupta, A. "Vibrations and waves in continuous mechanical systems.", John Wiley & Sons, 2007.
+3.  Miklowitz, J. "The theory of elastic waves and waveguides", Elsevier, 2012.
+4.  Auld, B. A. "Acoustic fields and waves in solids.", Krieger Pub Co, 1973.
+5.  Hirao, M., & Ogi, H. "Electromagnetic acoustic transducers", Springer, 2017.
