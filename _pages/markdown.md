@@ -249,6 +249,27 @@ $$
 }
 $$
 
+## Electromagnetic Acoustic Transducers (EMATs)
+
+In the context of transducers, EMATs are devices that operate through the Lorentz force by using the magnetorestrictive effect. Therefore, EMATs generate vibrations directly inside the material, allowing, with appropriate conditions, the generation of ultrasonic waves. This occurs through the interaction between a static magnetic field and an alternating current, which generates a Lorentz Force causing vibrations in the material, and, consequently, the propagation of ultrasonic waves. The following vectorial product can calculate this force:
+
+$$
+\displaylines{
+\mathbf{F} = \mathbf{J} \times \mathbf{B}_{0},
+}
+$$
+
+where \\(\mathbf{F}\\) is the Lorentz force per volume unit, \\(\mathbf{J}\\) is the induced dynamic current density, and \\(\mathbf{B}_{0}\\) is the static magnetic field. 
+<!-- EMATs are also sensors of ultrasonic waves. For the reception, we have the following relation
+
+$$
+\displaylines{
+J = 2 \sigma \frac{dS(t,0)}{dt},
+}
+$$ -->
+
+
+
 <!-- ## Cylindrical Waves 
 
 And so we have the wave equation in cylindrical coordinates:
