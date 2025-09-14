@@ -274,11 +274,13 @@ $$
 \displaylines{
 \frac{\partial^{2}u_{r}}{\partial r^{2}}+\frac{\partial}{\partial r}\left(\frac{1}{r}u_{r}\right)-\frac{1}{c_{\mathrm{L}}^{2}}\frac{\partial^{2}u_{r}}{\partial t^{2}}=0
 }
-$$ 
+$$ -->
 
 
-## References -->
+## References 
 
-**References**
-
-1.  **Why Procrastinators Procrastinate:** Urban, Tim. "Why Procrastinators Procrastinate." *Wait But Why*, 21 June 2024, https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html. Accessed on 21 June 2024.
+1.  Rose, J. L. "Ultrasonic guided waves in solid media.", 2014, Cambridge University Press.
+2.  Hagedorn, P. and DasGupta, A. "Vibrations and waves in continuous mechanical systems.", 2007, John Wiley & Sons.
+3.  Miklowitz, J. "The theory of elastic waves and waveguides", 2012, Elsevier.
+4.  Auld, B. A. "Acoustic fields and waves in solids.", 1973, Krieger Pub Co.
+5.  Hirao, M and Ogi, H. "Electromagnetic acoustic transducers", 2017, Springer.
