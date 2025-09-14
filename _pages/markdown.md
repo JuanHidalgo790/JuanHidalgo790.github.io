@@ -260,17 +260,19 @@ $$
 $$
 
 where \\(\mathbf{F}\\) is the Lorentz force per volume unit, \\(\mathbf{J}\\) is the induced dynamic current density, and \\(\mathbf{B}_{0}\\) is the static magnetic field. 
+
+
 <!-- EMATs are also sensors of ultrasonic waves. For the reception, we have the following relation
 
 $$
 \displaylines{
 J = 2 \sigma \frac{dS(t,0)}{dt},
 }
-$$ -->
+$$ 
 
 
 
-<!-- ## Cylindrical Waves 
+## Cylindrical Waves 
 
 And so we have the wave equation in cylindrical coordinates:
 
